@@ -5,6 +5,7 @@ In this project I used knowledge such as 'Static Generation, and Server-side Ren
 All code is available for use and modifications.
 
 To run the project just:
+
 1 - Clone the project;
 
 2 - Download the facilities;
