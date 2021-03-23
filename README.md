@@ -8,7 +8,7 @@ To run the project just:
 
 1 - Clone the project;
 
-2 - Download the facilities;
+2 - Download the dependencies;
 
 3 - In the 'npm run dev' terminal, which will open your project on localhost.
 
