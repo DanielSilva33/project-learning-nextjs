@@ -11,4 +11,6 @@ To run the project just:
 
 3 - In the 'npm run dev' terminal, which will open your project on localhost.
 
+Access also directly through the link: https://learningnextjs-roan.vercel.app/
+
 ![image](https://user-images.githubusercontent.com/51060912/112182745-52041f80-8bdc-11eb-9efc-55b248f66034.png)
